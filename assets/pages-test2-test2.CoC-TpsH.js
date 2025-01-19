@@ -1,0 +1,1 @@
+import{c as a,w as e,f as s,o as t,a as r,b as n,e as o}from"./index-DsbbQVe7.js";import{_ as l}from"./_plugin-vue_export-helper.BCo6x5W8.js";const u=l({},[["render",function(l,u){const f=o,p=s;return t(),a(p,null,{default:e((()=>[r(f,null,{default:e((()=>[n("我是tab页面")])),_:1})])),_:1})}]]);export{u as default};
